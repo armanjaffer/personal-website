@@ -23,7 +23,6 @@ export default function Home() {
           </a>
 
           <a href="/musings" className={styles.card}>
->>>>>>> ae51642 (Fixed lint warnings)
             <h2>Musings &rarr;</h2>
           </a>
         </div>
