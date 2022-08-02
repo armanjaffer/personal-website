@@ -49,7 +49,7 @@ export default function AboutMe() {
 					<h1>a lil about me...</h1>
 					<h2>TLDR</h2>
 					<p>
-						I'm just another guy that's trying to make his mark on the world. Not quite sure what that looks like but I dabble in building tech, politics, and everything in between. Right now I'm excited about founding a startup that can leverage technology in a novel and useful way to help humanity move forward.
+						I&apos;m just another guy that&apos;s trying to make his mark on the world. Not quite sure what that looks like but I dabble in building tech, politics, and everything in between. Right now I&apos;m excited about founding a startup that can leverage technology in a novel and useful way to help humanity move forward.
 					</p>
 					<h2>Some of my experiences...</h2>
 					<li>Product Manager at the&nbsp;
@@ -73,10 +73,10 @@ export default function AboutMe() {
 						&nbsp;(2016)
 					</li>
 					<h2>Personally, I believe...</h2>
-					<li> <b>The personal is political.</b> Saying stuff like "don't get political" is BS because politics surrounds us. There's some that acknowledge our realities (even if it's uncomfortable) and some that don't.</li>
-					<li> <b>Technologists need to do better.</b> Too many people in tech are averse to thinking critically about their work and the capitalist systems that have harnessed 'mainstream innovation' into a 9-5 job in big tech. They have nice managers and coworkers and avoid thinking about the cognitive dissonance between their purported values and their work.
+					<li> <b>The personal is political.</b> Saying stuff like &quot;don&apos;t get political&quot; is BS because politics surrounds us. There&apos;s some that acknowledge our realities (even if it&apos;s uncomfortable) and some that don&apos;t.</li>
+					<li> <b>Technologists need to do better.</b> Too many people in tech are averse to thinking critically about their work and the capitalist systems that have harnessed &apos;mainstream innovation&apos; into a 9-5 job in big tech. They have nice managers and coworkers and avoid thinking about the cognitive dissonance between their purported values and their work.
 					</li>
-					<li> <b> People should embrace chaos.</b> I find life more enjoyable when everything isn't nicely tied up. It can be messy, but I try to lean into things that might make for a good story.
+					<li> <b> People should embrace chaos.</b> I find life more enjoyable when everything isn&apos;t nicely tied up. It can be messy, but I try to lean into things that might make for a good story.
 					</li>
 					<div style={footerDiv}>
 						<a href={"/"}><h2>Back</h2></a>
