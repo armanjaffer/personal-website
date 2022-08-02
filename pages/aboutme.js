@@ -1,5 +1,4 @@
-import { useEffect, useState } from "react";
-
+import { useState } from "react";
 
 const container_styles = {
 	backgroundSize: "cover",
@@ -78,9 +77,6 @@ export default function AboutMe() {
 					</li>
 					<li> <b> People should embrace chaos.</b> I find life more enjoyable when everything isn&apos;t nicely tied up. It can be messy, but I try to lean into things that might make for a good story.
 					</li>
-					<div style={footerDiv}>
-						<a href={"/"}><h2>Back</h2></a>
-					</div>
 				</div>
 			</div>
 		</div>
