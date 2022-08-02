@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import Link from 'react-router-dom'
 
 
 export default function Home() {
@@ -15,24 +16,22 @@ export default function Home() {
         <h1 className={styles.title}>
           Hi, I&apos;m Arman.
         </h1>
-
         <div className={styles.grid}>
-          <link href="/aboutme" className={styles.card}>
+          <Link to="/aboutme" className={styles.card}>
             <h2>About me &rarr;</h2>
 
-          </link>
+          </Link>
 
-          <link href="/contact" className={styles.card}>
+          <Link to="/contact" className={styles.card}>
             <h2>Contact &rarr;</h2>
-          </link>
+          </Link>
 
-          <link
-            href="/musings"
+          <Link
+            to="/musings"
             className={styles.card}
           >
             <h2>Musings &rarr;</h2>
-          </link>
-
+          </Link>
         </div>
       </main>
     </div>
