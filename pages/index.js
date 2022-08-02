@@ -14,15 +14,16 @@ export default function Home() {
           Hi, I&apos;m Arman.
         </h1>
         <div className={styles.grid}>
-          <a to="/aboutme" className={styles.card}>
+          <a href="/aboutme" className={styles.card}>
             <h2>About me &rarr;</h2>
           </a>
 
-          <a to="/contact" className={styles.card}>
+          <a href="/contact" className={styles.card}>
             <h2>Contact &rarr;</h2>
           </a>
 
-          <a to="/musings" className={styles.card}>
+          <a href="/musings" className={styles.card}>
+>>>>>>> ae51642 (Fixed lint warnings)
             <h2>Musings &rarr;</h2>
           </a>
         </div>
